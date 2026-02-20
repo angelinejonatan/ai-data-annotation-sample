@@ -1,4 +1,4 @@
-# ai-data-annotation-sample
+
 # AI Data Annotation Sample Project
 
 ## Project Description
